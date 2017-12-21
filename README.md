@@ -13,8 +13,11 @@ This is a final project for a programming class. I decided to create and modify 
 
 Installation
 Pygame is required found here: http://pygame.org
+
 Pygame_textinput is required found here: https://github.com/Nearoo/pygame-text-input
+
 Pandas is required and found here: https://pandas.pydata.org/
+
 The rest of the modules are found in the standard Python library.
 
 Contributors
