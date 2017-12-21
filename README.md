@@ -21,6 +21,10 @@ Pandas is required and found here: https://pandas.pydata.org/
 
 The rest of the modules are found in the standard Python library.
 
+Usage
+
+Using the arrow keys on the keyboard move the snake around the screen and try to eat the mouse.  Every time the snake eats the mouse it gains a segment and the game is over when you collide with a segment.  The space bar, w, p, q, and m keys are used for various controls in the game that are explained on screen. 
+
 Contributors
 
 Tyce Addley - addley.ta@gmail.com
