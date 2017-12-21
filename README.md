@@ -12,6 +12,7 @@ Motivation
 This is a final project for a programming class. I decided to create and modify this classic game so that I could visually see the changes that I had made to the code and how those changes affected the program in real time.  This visual approach helped me to understand state machine coding and game loops for player movement generation.  I plan to continue to update with new features as I improve my coding skills. 
 
 Installation
+
 Pygame is required found here: http://pygame.org
 
 Pygame_textinput is required found here: https://github.com/Nearoo/pygame-text-input
