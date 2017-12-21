@@ -1,4 +1,6 @@
-# final_project
+Snake Game Final Project
+
+
 BMI 6018 Final
 
 Synopsis
@@ -21,4 +23,4 @@ Tyce Addley - addley.ta@gmail.com
 
 License
 
-A short snippet describing the license (MIT, Apache, etc.)
+GNU General Public License v3.0
